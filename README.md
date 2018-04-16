@@ -26,4 +26,10 @@
 
 * Deployment instructions
 
-Clone repository and run $ ``` bundle install ```. Make sure you have ImageMagick installed for proper paperclip functionality. For more information visit their github page https://github.com/thoughtbot/paperclip
+Clone repository and run $ ``` bundle install ```. 
+
+Run ``` rake db:create ```, then ``` rake db:migrate ``` to setup the database. 
+
+Then run ``` rails s ``` to run the Rails server and run your app locally. 
+
+Make sure you have ImageMagick installed for proper paperclip functionality. For more information visit their github page https://github.com/thoughtbot/paperclip
