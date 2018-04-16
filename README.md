@@ -16,7 +16,7 @@
 *Semantic-ui for styling, font-awesome for icons, paperclip for image uploads*
 
 * **Sass**
-*I've chagned application.css to an .scss extension and imported external stylesheets for improved stylesheet management*
+*I've changed application.css to an .scss extension and imported external stylesheets for improved stylesheet management*
 
 ---------------------------------------------------------------------
 
